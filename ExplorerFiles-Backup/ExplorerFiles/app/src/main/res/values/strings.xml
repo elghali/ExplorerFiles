@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Wireless Transmission for Laser Microphone</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_list_files">File Explorer</string>
+    <string name="button1">Recordings</string>
+    <string name="button2">Use external FE</string>
+    <string name="title_activity_audio_picker">Audio Capture</string>
+    <string name="choose_file">Choose File</string>
+    <string name="record_audio">Record Audio</string>
+    <string name="stop_record">Stop</string>
+    <string name="play_audio">Play</string>
+    <string name="hint_main">1. You can capture audio; audio files will be saved in your internal storage
+        under \'ExplorerFiles\' folder</string>
+    <string name="hint_second">2. You can explore audio files that are on your disk, in the built-in
+        file explorer upon clicking on \'RECORDINGS\'.</string>
+    <string name="hint_third">3. After finding your desired audio file, you can either send it directly or convert it
+        first to WAV format.</string>
+    <string name="file_explorer_title">Locate the desired audio file</string>
+    <string name="hint_fourth">4. Please don\'t forget to set your ExplorerFiles folder in the Destination
+        WAV file field in the Audio Converter application.</string>
+    <string name="done_text">Done</string>
+    <string name="clear_text">Clear</string>
+</resources>
